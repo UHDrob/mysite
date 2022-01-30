@@ -4,15 +4,24 @@ body {
     font-family: "Merriweather", serif;
 }
 h1 {
-    font-size: 90px;
-    margin-top: 0;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
     font-family: "Sacramento", cursive;
+    color: #66BFBF;
+    line-height: 2;
 }
 h2 {
     font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    color: #66BFBF;
 }
 h3 {
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a {
+    color: #11999E;
 }
 div {
     background-color: #E4F9F5;
